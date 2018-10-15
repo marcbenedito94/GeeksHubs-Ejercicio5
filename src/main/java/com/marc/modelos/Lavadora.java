@@ -7,9 +7,9 @@ public class Lavadora extends Electrodomestico {
 
     private int carga = Constantes.carga_por_defecto;
 
-    //Constantes
-
-    //Constantes
+    public Lavadora () {
+        super();
+    }
 
     public Lavadora (String color, String consumo_energetico, float precio_base, int peso, int carga) {
         super(color, consumo_energetico, precio_base, peso);
