@@ -6,10 +6,6 @@ public class Electrodomestico {
     protected String Colores_Disponibles[] = {"blanco", "metal", "rojo", "verde", "azul"};
     protected String Consumos_Energeticos[] = {"A", "B", "C", "D", "E", "F"};
 
-    //Constantes
-
-    //Constantes
-
     protected String color = Constantes.color_por_defecto;
     protected String consumo_energetico = Constantes.consumo_energetico_por_defecto;
 

@@ -11,10 +11,6 @@ public class Television extends Electrodomestico {
     private boolean sintonizadorTDT = true;
     private boolean es_sintonizadorTDT;
 
-    //Constantes
-
-    //Constantes
-
     public Television () {
         super();
     }

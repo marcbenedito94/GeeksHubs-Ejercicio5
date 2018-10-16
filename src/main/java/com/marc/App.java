@@ -10,7 +10,6 @@ import java.util.ArrayList;
 public class App {
     private static String consumo_energetico;
     private static int peso;
-    private static int total = 0;
     private static float precio_total = 0f;
     private static float precio_total_televisiones = 0f;
     private static float precio_total_lavadoras = 0f;
