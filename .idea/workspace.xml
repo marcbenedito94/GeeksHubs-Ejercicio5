@@ -4,8 +4,7 @@
     <list default="true" id="593deaa7-14cf-418a-bf15-909767d16aa8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/marc/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marc/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marc/controladores/ElectrodomesticoControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marc/controladores/ElectrodomesticoControlador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/marc/modelos/Lavadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/marc/modelos/Lavadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/marc/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/marc/App.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,15 +18,15 @@
     <session id="1789834374">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.11" value="3" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,36 +41,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4069" />
+          <entry key="java" value="4335" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4069" />
+          <entry key="JAVA" value="4335" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
+            <state relative-caret-position="105">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1552#1564#0" expanded="true" />
-                <element signature="e#1621#1631#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/controladores/ElectrodomesticoControlador.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="398">
               <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -92,12 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/modelos/Lavadora.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="135">
               <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-              <folding>
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -151,8 +144,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/marc/modelos/Television.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marc/modelos/Electrodomestico.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marc/modelos/Lavadora.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/marc/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/marc/controladores/ElectrodomesticoControlador.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/marc/App.java" />
       </list>
     </option>
   </component>
@@ -185,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539619319089" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539677602184" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -243,16 +236,16 @@
       <workItem from="1539587901547" duration="229000" />
       <workItem from="1539596025938" duration="51000" />
       <workItem from="1539596138689" duration="1218000" />
-      <workItem from="1539614285027" duration="3426000" />
+      <workItem from="1539614285027" duration="4034000" />
+      <workItem from="1539674716631" duration="2134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30057000" />
+    <option name="totallyTimeSpent" value="32799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="748" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -267,7 +260,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32857144" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32750398" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3354531" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.20985691" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -289,7 +282,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4984127" visible="true" weight="0.10422961" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4984127" weight="0.10422961" />
       <window_info id="Structure" order="6" sideWeight="0.50158733" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
@@ -297,9 +290,9 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32857144" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32857144" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32750398" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.21111111" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.20985691" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -341,10 +334,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/bbdd/Conexion.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/modelos/Electrodomestico.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/modelos/Lavadora.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="135">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -359,29 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/modelos/Lavadora.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="70" column="49" selection-start-line="70" selection-start-column="49" selection-end-line="70" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1552#1564#0" expanded="true" />
-            <element signature="e#1621#1631#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/constantes/Constantes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -389,10 +359,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/modelos/Electrodomestico.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/controladores/ElectrodomesticoControlador.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="398">
           <caret line="43" column="59" selection-start-line="43" selection-start-column="59" selection-end-line="43" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/marc/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
